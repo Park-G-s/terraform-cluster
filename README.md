@@ -35,6 +35,7 @@
 
 3. 테라폼 다운로드 및 로컬 pc에 설치
 https://www.terraform.io/downloads.html
+4. AWS 콘솔에서 key.fair를 준비한후, .pem을 .pub으로 변환하는 작업이 선행되어야함.
 
 ## 인프라 구성도
 1. tree 구조
