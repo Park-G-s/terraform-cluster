@@ -44,15 +44,24 @@ https://www.terraform.io/downloads.html
     ```
     <img src=https://user-images.githubusercontent.com/73996998/106762520-420a9d80-6679-11eb-84df-3631f325b6c7.png width="40%" height="80%" title="px(픽셀) 크기 설정" alt="tree"></img>
 2. 구성도   
-    <img src=https://user-images.githubusercontent.com/73996998/106762854-944bbe80-6679-11eb-831d-09e7e07744c0.GIF width="80%" height="80%" title="px(픽셀) 크기 설정" alt="tree"></img>   
+    <p>
+    <img src=https://user-images.githubusercontent.com/73996998/106762854-944bbe80-6679-11eb-831d-09e7e07744c0.GIF width="80%" height="80%" title="px(픽셀) 크기 설정" alt="tree"></img>
+    </p>   
     아이콘사용출처: https://aws.amazon.com/ko/architecture/icons/
 
 ## 스크린샷
 1. ASG 생성 확인
+<p>
 <img src=https://raw.githubusercontent.com/Park-G-s/study/master/%EC%98%A4%ED%86%A0%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81(%EA%B0%80%EB%A6%AC%EA%B8%B0).GIF width="80%" height="30%" title="px(픽셀) 크기 설정" alt="ASG"></img>
-2. ELB 생성 확인<img src=https://raw.githubusercontent.com/Park-G-s/study/master/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C(%EA%B0%80%EB%A6%AC%EA%B8%B0).GIF width="80%" height="30%" title="px(픽셀) 크기 설정" alt="ELB2"></img>
+ </p>
+2. ELB 생성 확인
+<p>
+<img src=https://raw.githubusercontent.com/Park-G-s/study/master/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%84%9C(%EA%B0%80%EB%A6%AC%EA%B8%B0).GIF width="80%" height="30%" title="px(픽셀) 크기 설정" alt="ELB2"></img>
+ </p>
 3. ELB 정상작동 확인
+<p>
 <img src=https://raw.githubusercontent.com/Park-G-s/study/master/elb%20%EC%A0%95%EC%83%81%EC%9E%91%EB%8F%99(%EA%B0%80%EB%A6%AC%EA%B8%B0).GIF width="80%" height="30%" title="px(픽셀) 크기 설정" alt="ELB"></img>
+ </p>
 
 
 <!-- ## 사용 예제
