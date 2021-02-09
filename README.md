@@ -112,9 +112,9 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 -->
 <!-- Markdown link & img dfn's -->
 [HCL-image]: https://img.shields.io/badge/HCL-blue
-[terraform-image]: https://img.shields.io/badge/terraform-0.14.5-blue
-[window-image]: https://img.shields.io/badge/Window-10-blue
-[amazonlinux2-image]: https://img.shields.io/badge/amazonlinux-2-orange
-[vscode-image]: https://img.shields.io/badge/vscode-1.52.1-blueviolet
+[terraform-image]: https://img.shields.io/badge/terraform-0.14.5-blue?logo=terraform&logoColor=white
+[window-image]: https://img.shields.io/badge/Window-10-blue?logo=windows&logoColor=white
+[amazonlinux2-image]: https://img.shields.io/badge/AmazonLinux-2-orange?logo=amazon-aws&logoColor=white
+[vscode-image]: https://img.shields.io/badge/vscode-1.52.1-blueviolet?logo=visual-studio-code&logoColor=white
 [HCL-url]: https://www.terraform.io/downloads.html
-[aws-image]: https://img.shields.io/badge/-aws-orange
+[aws-image]: https://img.shields.io/badge/-aws-orange?logo=amazon-aws&logoColor=white
